@@ -1,4 +1,4 @@
-# WINE in an AppImage
+# WINE in an AppImage (WIP)
 
 This repository contains a script to build an appimage for wine
 
