@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WINE
+Exec=wine
+Icon=wine
+Type=Application
+Categories=Utility;
+X-Desktop-File-Install-Version=0.23
